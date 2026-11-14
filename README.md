@@ -59,5 +59,3 @@ This Power BI report evaluates the company's financial performance across **reve
 ### Cost Optimization
 1. **Improve labor cost efficiency.** Move staff from loss-making areas (Consulting, Nutrition) to support Sportswear, and consider shifting part of fixed salaries to performance-based pay.
 2. **Control Operating Expense growth.** Renegotiate outsourcing, office supply and third-party service contracts, and require departments to justify Opex budgets and major expenses.
-
-> ⚠️ The **Dumbbell Chart** custom visual is embedded in the file.
